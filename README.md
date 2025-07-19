@@ -14,7 +14,6 @@ A simple online shoe store built with **React + useState**. Users can browse sho
 - ### 🚀 Live Links
 
 - 🔗 Netlify:
--  [https://your-netlify-url.netlify.app](https://shoe-store-1c667.netlify.app/)
 -  https://shoe-store-1c667.netlify.app/
 
 
